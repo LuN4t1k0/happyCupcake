@@ -1,7 +1,7 @@
 # happyCupcake
 
 ## Links
-Netlify Pages: tps://632e7b80f8fb563cb21c6885--superb-madeleine-386564.netlify.app
+Netlify Pages: https://632e7b80f8fb563cb21c6885--superb-madeleine-386564.netlify.app
 
 ## Installation
 
