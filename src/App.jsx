@@ -4,6 +4,7 @@ import MyFooter from "./components/MyFooter";
 import MyNavBar from "./components/MyNavBar";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
+import PageNotFound from "./pages/PageNotFound";
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home/>}/>
           <Route path="/contact" element={<Contact/>}/>
-          <Route path="*" element={ <h1>:( pagina no enconrtada</h1>}/>
+          <Route path="*" element={<PageNotFound/>}/>
         </Routes>
         <MyFooter />
       </BrowserRouter>
